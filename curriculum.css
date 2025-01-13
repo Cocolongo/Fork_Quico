@@ -1,0 +1,51 @@
+body{
+
+    background-color: hwb(200 71% 21%)
+
+}
+
+title{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(51, 51, 51);
+    text-align: center;
+
+}
+
+p{
+
+    background-color: hwb(198 56% 35%)
+}
+
+h2{
+
+    font-weight: bold;
+    background-color: hwb(200 48% 38%);
+    text-decoration: underline;
+
+
+}
+
+span{
+color: rgba(33, 12, 216, 0.5);
+font-size: medium;
+
+}
+
+h3{
+
+    background-color: hwb(201 56% 29%);
+    color: rgb(122, 119, 118);
+}
+
+
+
+footer{
+    font-weight: 800;
+    text-align: end;
+    background-color: aliceblue;
+}
+
+strong{
+    color: rgba(33, 12, 216, 0.5);
+}
